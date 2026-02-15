@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+models/*.tflite
+models/*.pb
+temp_video/
+*.mp4
